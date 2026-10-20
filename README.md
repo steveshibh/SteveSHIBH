@@ -27,6 +27,7 @@
 ### 📁 Projects
 
 - **[Crafty](https://github.com/steveshibh/Crafty-Chatbot)** — Responsive Dual-Role Messaging Mini-Widget `[JavaScript, CSS3, HTML5]` · [Live Demo](https://steveshibh.github.io/Crafty-Chatbot/)
+- **GenAI solution for the visually impaired**
 - **Inference & Quantization Engine & Memory Profiler** — C++ Edge AI & Low-Level Systems
 - **Kirchhoff AI** — RAG-based Circuit Theory & Mathematics Practice Assistant *(In Progress)*
 - **Basketball CV** — Computer Vision & Weather Analytics
@@ -35,7 +36,7 @@
 ---
 
 ### 🏆 Hackathons & Competitions
-- **Google Hackathon** — Team Lead of 4 members, 3rd in grouping
+- **Google Tech for Tomorrow Hackathon** — Team Lead of 4 members, 3rd in grouping
 - **MathWorks Hackathon / Competition** — Lead a team of 2 members
 - **NTU TechFest Hackathon** - Participant
 
