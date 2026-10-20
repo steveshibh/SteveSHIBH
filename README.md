@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-I am a student from NTU School of EEE. 
+I am a Y3 student from NTU School of EEE. 
 I am an aspiring SWE/Full Stack Developer who had some hackathon experiences with Google, MathWorks and NTU.
-<!--
-**steveshibh/SteveSHIBH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+You may find out my past projects from below:
+
 
 Here are some ideas to get you started:
 
