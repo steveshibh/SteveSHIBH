@@ -39,14 +39,6 @@
 - **MathWorks Hackathon / Competition** — Participant
 - **NTU Hackathons** — Team Competitor
 
----
-
-### 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=steveshibh&show_icons=true&theme=radical&hide_border=true" alt="Steve's GitHub Stats" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steveshibh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="140" />
-</p>
 
 ---
 
