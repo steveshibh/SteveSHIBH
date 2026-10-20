@@ -1,4 +1,4 @@
-# Hi, I'm Steve / Touma 👋
+# Hi, I'm Bohan👋
 
 [![Email](https://img.shields.io/badge/Email-shib0004%40e.ntu.edu.sg-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shib0004@e.ntu.edu.sg)
 [![University](https://img.shields.io/badge/NTU_Singapore-EEE_Year_3-002D62?style=flat-square)](#)
