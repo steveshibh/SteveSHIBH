@@ -36,8 +36,8 @@
 
 ### 🏆 Hackathons & Competitions
 - **Google Hackathon** — Team Lead, 3rd in grouping
-- **MathWorks Hackathon / Competition** — Participant
-
+- **MathWorks Hackathon / Competition** — Lead a group of 2 members
+- **NTU TechFest Hackathon** - Participant
 
 
 ---
