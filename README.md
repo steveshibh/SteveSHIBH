@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a student from NTU School of EEE. 
+I am an aspiring SWE/Full Stack Developer who had some hackathon experiences with Google, MathWorks and NTU.
 <!--
 **steveshibh/SteveSHIBH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
