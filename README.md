@@ -5,7 +5,7 @@
 [![Location](https://img.shields.io/badge/Location-Singapore_%F0%9F%87%B8%F0%9F%87%AC-lightgrey?style=flat-square)](#)
 
 > **Year 3 Electrical & Electronic Engineering Undergraduate at Nanyang Technological University (NTU Singapore)**  
-> Aspiring **Software Engineer & Full-Stack Developer** with competitive hackathon experience and a strong interest in high-performance web systems and applied AI.
+> Aspiring **Software Engineer & Full-Stack Developer** with average hackathon experience and a strong interest in web systems, applied AI and software engineering.
 
 ---
 
