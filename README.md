@@ -27,7 +27,7 @@
 ### 📁 Projects
 
 - **[Crafty](https://github.com/steveshibh/Crafty-Chatbot)** — Responsive Dual-Role Messaging Mini-Widget `[JavaScript, CSS3, HTML5]` · [Live Demo](https://steveshibh.github.io/Crafty-Chatbot/)
-- **GenAI solution for the visually impaired** (Gemini based prompting project with some Claude)
+- **GenAI solution for the visually impaired** (Gemini based project with some Claude)
 - **Inference & Quantization Engine & Memory Profiler**  (C++ Edge AI & Low-Level Systems)
 - **Kirchhoff AI**  (RAG-based Circuit Theory & Mathematics Practice Assistant *(In Progress)*
 - **Basketball CV**  (Computer Vision & Weather Analytics)
