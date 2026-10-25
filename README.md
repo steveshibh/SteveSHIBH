@@ -27,7 +27,7 @@
 ### 📁 Projects
 
 - **[Crafty](https://github.com/steveshibh/Crafty-Chatbot)** — Responsive Dual-Role Messaging Mini-Widget `[JavaScript, CSS3, HTML5]` · [Live Demo](https://steveshibh.github.io/Crafty-Chatbot/)
-- **[Visual Vox](https://github.com/steveshibh/Visual-vox)** — GenAI solution for the visually impaired (Gemini based project with some Claude) `[Python, Multimodal AI, TTS/STT]`
+- **[Visual Vox](https://github.com/steveshibh/Visual-vox)** — GenAI solution for the visually impaired `[Python, Multimodal AI, TTS/STT]`
 - **Inference & Quantization Engine & Memory Profiler**  (C++ Edge AI & Low-Level Systems)
 - **Kirchhoff AI Adaptive Testing AI System**  (RAG-based Circuit Theory & Mathematics Practice Assistant) *(In Progress)*
 - **PuddleVision**  (Computer Vision system tracking basketball court availability)
