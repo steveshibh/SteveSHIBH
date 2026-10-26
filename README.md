@@ -37,7 +37,7 @@
 
 ### 🏆 Hackathons & Competitions
 - **Google Tech for Tomorrow Hackathon** - Team Lead of 4 members, 3rd in grouping
-- **MathWorks Hackathon / Competition** - Lead a team of 2 members
+- **MathWorks Hackathon MAT-HACK** - Lead a team of 2 members
 - **NTU TechFest Hackathon** - Participant
 
 
